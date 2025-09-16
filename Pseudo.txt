@@ -1,0 +1,17 @@
+----------------------
+PROBLEMA [01]
+
+#INICIO
+#DECLARACION DE VARIABLES
+MP, CANT, NTT como entero
+DS, TP, MP, INM como real
+
+#INGRESO DE DATOS
+Leer TP, MP
+
+#PROCESO DE CALCULO
+S
+
+#MOSTRAR RESULTADO
+
+----------------------
